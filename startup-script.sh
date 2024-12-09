@@ -9,7 +9,7 @@ systemctl enable --now docker
 apt-get install -y git
 
 # Clone the Streamlit app repository (change the URL to your repository)
-git clone https://github.com/yourusername/your-streamlit-app.git /home/streamlit-app
+git clone https://github.com/kalyani-jaware/ML-Tuning-Project.git /home/streamlit-app
 
 # Change to the project directory
 cd /home/streamlit-app
